@@ -6,7 +6,7 @@ This is a simple image carousel made using HTML and CSS
 
 ## Screenshot
 
-[Click here](/assets/demo1.png)
+![image](/assets/demo1.png)
 
 ## Setup
 
