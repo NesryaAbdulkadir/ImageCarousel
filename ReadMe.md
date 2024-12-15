@@ -12,7 +12,6 @@ This is a simple image carousel made using HTML and CSS
 
 Just download the files and open the `index.html` file.
 
-t.
 
 ## Author
 
